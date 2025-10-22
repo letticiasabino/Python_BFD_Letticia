@@ -52,12 +52,8 @@ Criar um espaço organizado para:
 
 ---
 
-## 👩🏽‍💻 Sobre mim
+## 👩🏽‍💻 Redes sociais
 
-Olá! Eu sou **Lettícia Sabino**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia.  
-Atualmente estou me aprofundando no **desenvolvimento back-end com Python**, explorando bancos de dados e fortalecendo minha base em lógica de programação.
-
-📍 São Gonçalo – RJ  
 🔗 [LinkedIn](https://www.linkedin.com/in/letticiasabino) | [GitHub](https://github.com/letticiasabino)
 
 ---
