@@ -48,7 +48,7 @@ Aqui estarão reunidos todos os **exercícios, atividades e avaliações** que c
 │   └── (Anotações e comandos Git)
 │
 └── 📘 Python_BFD_Letticia
-    └── (arquivos de controle) 
+    └── (Passo a passo de como programar pelo celular) 
 ```
 
 ### 🧭 _Cada pasta representa uma etapa do curso, com exercícios voltados a diferentes temas de **Python** e **desenvolvimento back-end**._
